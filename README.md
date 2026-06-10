@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rudrathedeveloper
+- 👋 Hi, I’m @Rudraongit
 - 👀 I’m interested in developing new python projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on my personal projects
